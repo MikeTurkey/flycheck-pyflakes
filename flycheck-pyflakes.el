@@ -1,4 +1,5 @@
-;;; flycheck-pyflakes.el --- Support pyflakes in flycheck
+;;; flycheck-pyflakes.el --- Support pyflakes in flycheck -*- lexical-binding: t; -*-
+;; Modified: added lexical-binding cookie by MikeTurkey on 27 Oct 2026
 
 ;; Copyright (C) 2014 Wilfred Hughes <me@wilfred.me.uk>
 ;;
